@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Dekon-Warnschild ::NOT4BFLU55:: (SVG)">
+  <title>Dekon-Warnschild ::NOT4BFLU55::</title>
+  <desc>
+    Warnschild im amtlich-ironischen Stil: Dekonvergenz / Notausgang aus der Filterblase.
+    Enthält Aktenvermerk, QR-Überdeckfeld (unten rechts) und KIQ-Siegel (oben rechts).
+    Stand: 2026-02-21. Lizenz: frei verwendbar, fiktive Kunstfigur.
+  </desc>
+
+  <!-- Hintergrund -->
+  <rect x="0" y="0" width="1200" height="800" rx="44" ry="44" fill="#ffd400"/>
+  <rect x="26" y="26" width="1148" height="748" rx="34" ry="34" fill="none" stroke="#101010" stroke-width="14"/>
+
+  <!-- Kopf -->
+  <rect x="60" y="60" width="1080" height="120" rx="22" ry="22" fill="#101010"/>
+  <text x="95" y="135" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="800" fill="#ffd400">
+    DEKON-WARNSCHILD
+  </text>
+
+  <!-- Warnsymbol -->
+  <g transform="translate(980,78)">
+    <path d="M70 0 L140 120 L0 120 Z" fill="#ffd400"/>
+    <path d="M70 14 L130 114 L10 114 Z" fill="#101010"/>
+    <rect x="64" y="44" width="12" height="44" rx="6" fill="#ffd400"/>
+    <circle cx="70" cy="100" r="7" fill="#ffd400"/>
+  </g>
+
+  <!-- Haupttext -->
+  <g font-family="Arial, Helvetica, sans-serif" fill="#101010">
+    <text x="90" y="250" font-size="44" font-weight="800">Achtung!</text>
+
+    <text x="90" y="310" font-size="34" font-weight="700">
+      Sie verlassen die Komfortzone
+    </text>
+    <text x="90" y="350" font-size="34" font-weight="700">
+      konvergenter Plattformlogik.
+    </text>
+
+    <text x="90" y="410" font-size="30" font-weight="600">
+      Ab hier: weniger Glanz — mehr Reibung — mehr Eigenverantwortung.
+    </text>
+
+    <text x="90" y="480" font-size="34" font-weight="800">
+      Notausgang aus der vollkommenen Filterblase
+    </text>
+
+    <text x="90" y="530" font-size="28" font-weight="700">
+      Freiwillig.
+    </text>
+    <text x="90" y="565" font-size="28" font-weight="700">
+      Rückkehr nicht garantiert.
+    </text>
+  </g>
+
+  <!-- Sigil -->
+  <text x="90" y="620" font-family="Courier New, monospace" font-size="34" font-weight="800" fill="#101010">
+    ::NOT4BFLU55::
+  </text>
+
+  <!-- QR²-Überdeckfeld höher geschoben -->
+  <g>
+    <rect x="910" y="470" width="230" height="230" rx="18" ry="18" fill="none" stroke="#101010" stroke-width="10"/>
+    <g transform="translate(1025,585) rotate(-45)">
+      <text x="0" y="0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800" fill="#101010">
+        QR-CODE HIER ÜBERDECKEN
+      </text>
+    </g>
+  </g>
+
+  <!-- Aktenvermerk -->
+  <rect x="60" y="690" width="1080" height="70" rx="18" ry="18" fill="#101010"/>
+  <text x="85" y="735" font-family="Courier New, monospace" font-size="22" font-weight="800" fill="#ffd400">
+    Aktenvermerk: Dekon-Maßnahme / Notausgang-Markierung — Objekt: ::NOT4BFLU55::
+  </text>
+</svg>
