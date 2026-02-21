@@ -453,14 +453,40 @@ def main() -> int:
         save_json(state_path, state)
         save_json(manifest_path, manifest)
 
+
+# --- sitemap.xml generieren ---
+ #   from pathlib import Path
+    import datetime
+
+    BASE_URL = "https://nocard-code.github.io/NOT4BFLU55"
+    urls = []
+    for md in (repo_dir / "works").glob("*.md"):
+        urls.append(f"{BASE_URL}/{md.as_posix()}")
+
+    today = datetime.date.today().isoformat()
+    xml = ["<?xml version='1.0' encoding='UTF-8'?>",
+           "<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>"]
+    for u in urls:
+        xml += ["  <url>", f"    <loc>{u}</loc>", f"    <lastmod>{today}</lastmod>", "  </url>"]
+    xml.append("</urlset>")
+
+    (repo_dir / "sitemap.xml").write_text("\n".join(xml), encoding="utf-8")
+
     # git commit/push
     if auto_commit and not dry_run:
         msg = f"ingest: {len(new_imgs)} work(s) ({date.today().isoformat()})"
         git_commit_push(repo_dir, msg, push=auto_push)
 
     print("Fertig.")
-    return 0
 
+# optionaler Ping (sanfter Stupser)
+    try:
+        sh(["curl", f"https://www.google.com/ping?sitemap={BASE_URL}/sitemap.xml"], check=False)
+        sh(["curl", f"https://www.bing.com/ping?sitemap={BASE_URL}/sitemap.xml"], check=False)
+    except Exception:
+        pass
+
+    return 0
 
 if __name__ == "__main__":
     raise SystemExit(main())
