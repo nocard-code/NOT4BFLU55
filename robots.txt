@@ -1,0 +1,3 @@
+# robots.txt
+User-agent: * Allow: /
+Sitemap: https://nocard-code.github.io/NOT4BFLU55/sitemap.xml
