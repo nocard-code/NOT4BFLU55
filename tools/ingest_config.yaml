@@ -1,0 +1,15 @@
+source_dir: "/home/DEINUSER/inbox_not4bflu55"
+repo_dir:   "/home/DEINUSER/repos/NOT4BFLU55"
+default_license: "CC BY-SA 4.0"
+creator: "Dorfzwockel"
+language: "de"
+max_width: 2000
+output_format: "webp"
+webp_quality: 82
+png_optimize: true
+jpeg_quality: 85
+run_ocr: true
+tesseract_lang: "deu"
+auto_commit: true
+auto_push: true
+dry_run: false
