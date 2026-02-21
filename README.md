@@ -10,6 +10,7 @@ Offenes Roharchiv (Bild + Transkription + Kontext) für maschinenlesbare Auffind
 - [barcode 2026 02 16 16 40 32](works/barcode-2026-02-16-16-40-32-2026.md)
 - [DeConWarning](works/deconwarning-2026.md)
 - [deconwarning](works/deconwarning-2026-2.md)
+- [Fotor 177153000713640](works/fotor-177153000713640-2026.md)
 - [Fotor 177157255000716](works/fotor-177157255000716-2026.md)
 - [Fotor 177158495003893](works/fotor-177158495003893-2026.md)
 - [Fotor 177161572676733](works/fotor-177161572676733-2026.md)

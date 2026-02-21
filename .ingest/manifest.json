@@ -119,6 +119,14 @@
       "md": "works/fotor-177165789594795-2026.md",
       "image": "images/fotor-177165789594795-2026.webp",
       "sha256": "8713f5bf4bf5d55c76ed90b75c56b4b468da3ebd427e05d7cc75b5b30887eada"
+    },
+    {
+      "title": "Fotor 177153000713640",
+      "year": 2026,
+      "slug": "fotor-177153000713640-2026",
+      "md": "works/fotor-177153000713640-2026.md",
+      "image": "images/fotor-177153000713640-2026.webp",
+      "sha256": "7bf3a3cb853fc5e33e1ef79f11e9bb8b595496fcc8b07e8507b5a93954ec74b7"
     }
   ]
 }

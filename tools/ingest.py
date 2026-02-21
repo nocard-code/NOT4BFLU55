@@ -458,7 +458,7 @@ def main() -> int:
  #   from pathlib import Path
     import datetime
 
-    BASE_URL = "https://nocard-code.github.io/NOT4BFLU55"
+    BASE_URL = "https://git.not4bflu55.de"
     urls = []
     for md in (repo_dir / "works").glob("*.md"):
         urls.append(f"{BASE_URL}/{md.as_posix()}")
