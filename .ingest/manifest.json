@@ -1,0 +1,76 @@
+{
+  "works": [
+    {
+      "title": "DeConWarning",
+      "year": 2026,
+      "slug": "deconwarning-2026",
+      "md": "works/deconwarning-2026.md",
+      "image": "images/deconwarning-2026.webp",
+      "sha256": "35061b8d77d2420aaae9a79883084783fc07dd7ebbc71eeb3fe12cd8fb5f1b56"
+    },
+    {
+      "title": "ResizedImage 2026 02 18 18 10 26 5601",
+      "year": 2026,
+      "slug": "resizedimage-2026-02-18-18-10-26-5601-2026",
+      "md": "works/resizedimage-2026-02-18-18-10-26-5601-2026.md",
+      "image": "images/resizedimage-2026-02-18-18-10-26-5601-2026.webp",
+      "sha256": "4955992da26d2d66a8955fa28a05522c7ef2a50220746aeae2ff166a92b4cce4"
+    },
+    {
+      "title": "back",
+      "year": 2026,
+      "slug": "back-2026",
+      "md": "works/back-2026.md",
+      "image": "images/back-2026.webp",
+      "sha256": "928a02e578d7bcc2b56624be2085fd704f0c0105ff7113c5010ed07931a42265"
+    },
+    {
+      "title": "barcode 2026 02 13 09 00 23",
+      "year": 2026,
+      "slug": "barcode-2026-02-13-09-00-23-2026",
+      "md": "works/barcode-2026-02-13-09-00-23-2026.md",
+      "image": "images/barcode-2026-02-13-09-00-23-2026.webp",
+      "sha256": "103fdbbc6fc64e24bfad1b118b6b0c22d13273be14ea89cb57b9fa2c86626ca5"
+    },
+    {
+      "title": "barcode 2026 02 16 16 40 32",
+      "year": 2026,
+      "slug": "barcode-2026-02-16-16-40-32-2026",
+      "md": "works/barcode-2026-02-16-16-40-32-2026.md",
+      "image": "images/barcode-2026-02-16-16-40-32-2026.webp",
+      "sha256": "51d8c3afed8533458f2e8897612395b3a67d56c9e4685793497289a6f7568e18"
+    },
+    {
+      "title": "deconwarning",
+      "year": 2026,
+      "slug": "deconwarning-2026-2",
+      "md": "works/deconwarning-2026-2.md",
+      "image": "images/deconwarning-2026-2.webp",
+      "sha256": "55fe8fa4e641d9485204ff5b050dcd00b187364befa507861fed45a454ba2df0"
+    },
+    {
+      "title": "front",
+      "year": 2026,
+      "slug": "front-2026",
+      "md": "works/front-2026.md",
+      "image": "images/front-2026.webp",
+      "sha256": "db8ef357e39fa2696b36597ebefc04335b036f92f7cb73cb926508b8147dab0b"
+    },
+    {
+      "title": "ki bild erstellen.de   Motiv  Ein öffent(.)",
+      "year": 2026,
+      "slug": "ki-bild-erstellen-de-motiv-ein-oeffent-2026",
+      "md": "works/ki-bild-erstellen-de-motiv-ein-oeffent-2026.md",
+      "image": "images/ki-bild-erstellen-de-motiv-ein-oeffent-2026.webp",
+      "sha256": "1c37bf78dd465d5496af4f1d18dee0593e5525ab759feedada6e941746ed73a7"
+    },
+    {
+      "title": "tanzkarteVorn",
+      "year": 2026,
+      "slug": "tanzkartevorn-2026",
+      "md": "works/tanzkartevorn-2026.md",
+      "image": "images/tanzkartevorn-2026.webp",
+      "sha256": "d0d9d653359604e9536ed2f2c9f066f37b476c06f50ff800f219cdec54642115"
+    }
+  ]
+}
