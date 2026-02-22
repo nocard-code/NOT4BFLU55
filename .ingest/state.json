@@ -14,6 +14,7 @@
     "8713f5bf4bf5d55c76ed90b75c56b4b468da3ebd427e05d7cc75b5b30887eada",
     "928a02e578d7bcc2b56624be2085fd704f0c0105ff7113c5010ed07931a42265",
     "9c607056d997969406088f36a355266b2003359566f75aec7d5dee66a69570b4",
+    "c4256fc940b447c2e4cc9adf1a94cb70210cf6624c1a5ffeabbaa44f77c3c729",
     "d0d9d653359604e9536ed2f2c9f066f37b476c06f50ff800f219cdec54642115",
     "db8ef357e39fa2696b36597ebefc04335b036f92f7cb73cb926508b8147dab0b"
   ],
@@ -145,6 +146,14 @@
       "md": "works/fotor-177153000713640-2026.md",
       "image": "images/fotor-177153000713640-2026.webp",
       "sha256": "7bf3a3cb853fc5e33e1ef79f11e9bb8b595496fcc8b07e8507b5a93954ec74b7"
+    },
+    {
+      "title": "LetzteWarnung",
+      "year": 2026,
+      "slug": "letztewarnung-2026",
+      "md": "works/letztewarnung-2026.md",
+      "image": "images/letztewarnung-2026.webp",
+      "sha256": "c4256fc940b447c2e4cc9adf1a94cb70210cf6624c1a5ffeabbaa44f77c3c729"
     }
   ]
 }

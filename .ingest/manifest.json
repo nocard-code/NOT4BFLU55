@@ -127,6 +127,14 @@
       "md": "works/fotor-177153000713640-2026.md",
       "image": "images/fotor-177153000713640-2026.webp",
       "sha256": "7bf3a3cb853fc5e33e1ef79f11e9bb8b595496fcc8b07e8507b5a93954ec74b7"
+    },
+    {
+      "title": "LetzteWarnung",
+      "year": 2026,
+      "slug": "letztewarnung-2026",
+      "md": "works/letztewarnung-2026.md",
+      "image": "images/letztewarnung-2026.webp",
+      "sha256": "c4256fc940b447c2e4cc9adf1a94cb70210cf6624c1a5ffeabbaa44f77c3c729"
     }
   ]
 }
