@@ -9,6 +9,7 @@
     "51d8c3afed8533458f2e8897612395b3a67d56c9e4685793497289a6f7568e18",
     "55fe8fa4e641d9485204ff5b050dcd00b187364befa507861fed45a454ba2df0",
     "60bb62bafe6c4266eb0da302d694ae057bf431d998ce000daad4c404003db553",
+    "70876dcc951eae003674a640ce67b3a364ece4c0650ea0526f50a6ce81ed1eef",
     "733ef3fb533ec4b584fc6ec9618da7029495f1e6f013a5bc79b0aac39d28e297",
     "7bf3a3cb853fc5e33e1ef79f11e9bb8b595496fcc8b07e8507b5a93954ec74b7",
     "8713f5bf4bf5d55c76ed90b75c56b4b468da3ebd427e05d7cc75b5b30887eada",
@@ -154,6 +155,14 @@
       "md": "works/letztewarnung-2026.md",
       "image": "images/letztewarnung-2026.webp",
       "sha256": "c4256fc940b447c2e4cc9adf1a94cb70210cf6624c1a5ffeabbaa44f77c3c729"
+    },
+    {
+      "title": "ToilettenOrakel",
+      "year": 2026,
+      "slug": "toilettenorakel-2026",
+      "md": "works/toilettenorakel-2026.md",
+      "image": "images/toilettenorakel-2026.webp",
+      "sha256": "70876dcc951eae003674a640ce67b3a364ece4c0650ea0526f50a6ce81ed1eef"
     }
   ]
 }

@@ -22,5 +22,6 @@ Offenes Roharchiv (Bild + Transkription + Kontext) für maschinenlesbare Auffind
 - [ResizedImage 2026 01 10 16 25 13 1](works/resizedimage-2026-01-10-16-25-13-1-2026.md)
 - [ResizedImage 2026 02 18 18 10 26 5601](works/resizedimage-2026-02-18-18-10-26-5601-2026.md)
 - [tanzkarteVorn](works/tanzkartevorn-2026.md)
+- [ToilettenOrakel](works/toilettenorakel-2026.md)
 
 <!-- INDEX:END -->

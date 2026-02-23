@@ -135,6 +135,14 @@
       "md": "works/letztewarnung-2026.md",
       "image": "images/letztewarnung-2026.webp",
       "sha256": "c4256fc940b447c2e4cc9adf1a94cb70210cf6624c1a5ffeabbaa44f77c3c729"
+    },
+    {
+      "title": "ToilettenOrakel",
+      "year": 2026,
+      "slug": "toilettenorakel-2026",
+      "md": "works/toilettenorakel-2026.md",
+      "image": "images/toilettenorakel-2026.webp",
+      "sha256": "70876dcc951eae003674a640ce67b3a364ece4c0650ea0526f50a6ce81ed1eef"
     }
   ]
 }
