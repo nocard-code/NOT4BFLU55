@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this data artwork, please cite it as below."
+title: "NOT4BFLU55 — Signaturbild (8128 Bytes) — Datenkunstwerk als prüfbares SVG-Artefakt"
+version: "1.0.0"
+type: dataset
+authors:
+  - name: "Dorfzwockel"
+date-released: "2026-03-05"
+doi: "10.5281/zenodo.18879927"
+repository-code: "https://doi.org/10.5281/zenodo.18879927"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.18879927"
+keywords:
+  - data art
+  - Datenkunst
+  - SVG
+  - cryptography
+  - X.509
+  - certificate
+  - signature
+  - identicon
+  - hash
+  - generative art
+  - NOT4BFLU55
+  - Infologie
+  - void
+  - verifiability
+license: "CC-BY-4.0"
+preferred-citation:
+  type: dataset
+  authors:
+    - name: "Dorfzwockel"
+  year: 2026
+  title: "NOT4BFLU55 — Signaturbild (8128 Bytes) — Datenkunstwerk als prüfbares SVG-Artefakt"
+  version: "1.0.0"
+  publisher: "Zenodo"
+  doi: "10.5281/zenodo.18879927"
+  url: "https://doi.org/10.5281/zenodo.18879927"
