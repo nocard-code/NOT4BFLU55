@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     version="1.2" baseProfile="tiny-ps"
+     width="1024" height="1024"
+     viewBox="0 0 1024 1024">
+  <title>NOT4BFLU55</title>
+
+  <!-- Outer ring -->
+  <circle cx="512" cy="512" r="420" fill="none" stroke="#2b2b2b" stroke-width="16"/>
+  <circle cx="512" cy="512" r="392" fill="none" stroke="#7a7a7a" stroke-width="2"/>
+
+  <!-- Seven witnesses -->
+  <circle cx="441.77" cy="158.92" r="11" fill="#2b2b2b"/>
+  <circle cx="153.73" cy="476.71" r="7"  fill="#2b2b2b"/>
+  <circle cx="829.49" cy="342.3"  r="8"  fill="#2b2b2b"/>
+  <circle cx="753.76" cy="778.74" r="9"  fill="#2b2b2b"/>
+  <circle cx="844.6"  cy="374.23" r="7"  fill="#2b2b2b"/>
+  <circle cx="350.14" cy="190.44" r="11" fill="#2b2b2b"/>
+  <circle cx="186.56" cy="358.08" r="11" fill="#2b2b2b"/>
+
+  <!-- Inner identicon grid -->
+  <rect x="324" y="244" width="62" height="62" fill="#2b2b2b"/>
+  <rect x="404" y="244" width="62" height="62" fill="#2b2b2b"/>
+  <rect x="564" y="244" width="62" height="62" fill="#2b2b2b"/>
+  <rect x="644" y="244" width="62" height="62" fill="#2b2b2b"/>
+
+  <rect x="244" y="324" width="62" height="62" fill="#2b2b2b"/>
+  <rect x="484" y="324" width="62" height="62" fill="#2b2b2b"/>
+  <rect x="724" y="324" width="62" height="62" fill="#2b2b2b"/>
+
+  <rect x="244" y="404" width="62" height="62" fill="#2b2b2b"/>
+  <rect x="324" y="404" width="62" height="62" fill="#2b2b2b"/>
+  <rect x="644" y="404" width="62" height="62" fill="#2b2b2b"/>
+  <rect x="724" y="404" width="62" height="62" fill="#2b2b2b"/>
+
+  <rect x="404" y="484" width="62" height="62" fill="#2b2b2b"/>
+  <rect x="564" y="484" width="62" height="62" fill="#2b2b2b"/>
+
+  <rect x="324" y="564" width="62" height="62" fill="#2b2b2b"/>
+  <rect x="404" y="564" width="62" height="62" fill="#2b2b2b"/>
+  <rect x="564" y="564" width="62" height="62" fill="#2b2b2b"/>
+  <rect x="644" y="564" width="62" height="62" fill="#2b2b2b"/>
+
+  <rect x="244" y="644" width="62" height="62" fill="#2b2b2b"/>
+  <rect x="324" y="644" width="62" height="62" fill="#2b2b2b"/>
+  <rect x="404" y="644" width="62" height="62" fill="#2b2b2b"/>
+  <rect x="484" y="644" width="62" height="62" fill="#2b2b2b"/>
+  <rect x="564" y="644" width="62" height="62" fill="#2b2b2b"/>
+  <rect x="644" y="644" width="62" height="62" fill="#2b2b2b"/>
+  <rect x="724" y="644" width="62" height="62" fill="#2b2b2b"/>
+
+  <rect x="484" y="724" width="62" height="62" fill="#2b2b2b"/>
+
+  <!-- Copper riss (no opacity, two solid strokes instead) -->
+  <path d="M 152 542.62 L 207.38 543.72 L 262.77 548.38 L 318.15 549.03 L 373.54 480.84 L 428.92 547.33 L 484.31 597.34 L 539.69 619.53 L 595.08 689.45 L 650.46 719.63 L 705.85 714.34 L 761.23 726.52 L 816.62 708.15 L 872 732"
+        fill="none" stroke="#b87333" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 152 542.62 L 207.38 543.72 L 262.77 548.38 L 318.15 549.03 L 373.54 480.84 L 428.92 547.33 L 484.31 597.34 L 539.69 619.53 L 595.08 689.45 L 650.46 719.63 L 705.85 714.34 L 761.23 726.52 L 816.62 708.15 L 872 732"
+        fill="none" stroke="#d19a66" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <path d="M 373.54 480.84 L 350.05 540.38"
+        fill="none" stroke="#b87333" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 373.54 480.84 L 350.05 540.38"
+        fill="none" stroke="#d19a66" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <path d="M 484.31 597.34 L 474.63 522.97"
+        fill="none" stroke="#b87333" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 484.31 597.34 L 474.63 522.97"
+        fill="none" stroke="#d19a66" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <path d="M 650.46 719.63 L 586.26 734.94"
+        fill="none" stroke="#b87333" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 650.46 719.63 L 586.26 734.94"
+        fill="none" stroke="#d19a66" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <path d="M 595.08 689.45 L 689.7 668.11"
+        fill="none" stroke="#b87333" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 595.08 689.45 L 689.7 668.11"
+        fill="none" stroke="#d19a66" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Center void -->
+  <circle cx="512" cy="512" r="44" fill="#0f0f10"/>
+  <circle cx="512" cy="512" r="44" fill="none" stroke="#7a7a7a" stroke-width="2"/>
+</svg>
