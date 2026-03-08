@@ -143,6 +143,334 @@
       "md": "works/toilettenorakel-2026.md",
       "image": "images/toilettenorakel-2026.webp",
       "sha256": "70876dcc951eae003674a640ce67b3a364ece4c0650ea0526f50a6ce81ed1eef"
+    },
+    {
+      "title": "0 cover front",
+      "year": 2026,
+      "slug": "0-cover-front-2026",
+      "md": "works/0-cover-front-2026.md",
+      "image": "images/0-cover-front-2026.webp",
+      "sha256": "6ffcbd1363d840af62ae43b4e9a7d0877df1d1507e0913fb06593cfcb971d437"
+    },
+    {
+      "title": "10 warnung",
+      "year": 2026,
+      "slug": "10-warnung-2026",
+      "md": "works/10-warnung-2026.md",
+      "image": "images/10-warnung-2026.webp",
+      "sha256": "153380fbf9faf12e07ce0525f14a88783ed4a6b6c4305fe73e18a0059281c799"
+    },
+    {
+      "title": "11 Anarchie",
+      "year": 2026,
+      "slug": "11-anarchie-2026",
+      "md": "works/11-anarchie-2026.md",
+      "image": "images/11-anarchie-2026.webp",
+      "sha256": "f69b420569f34dd0cf3d2d80958424192145f913c863ecad833496206ac09b34"
+    },
+    {
+      "title": "12 leviathan ost",
+      "year": 2026,
+      "slug": "12-leviathan-ost-2026",
+      "md": "works/12-leviathan-ost-2026.md",
+      "image": "images/12-leviathan-ost-2026.webp",
+      "sha256": "f672363eb20fe29815d3e1f16684b56d4ce17021ef0eb6c28c6a2bb2e2c3ed67"
+    },
+    {
+      "title": "13 leviathan west",
+      "year": 2026,
+      "slug": "13-leviathan-west-2026",
+      "md": "works/13-leviathan-west-2026.md",
+      "image": "images/13-leviathan-west-2026.webp",
+      "sha256": "1e313fef936444b2f67a6a9600b8a43c34882aa956f51910d6af01b00b2066f9"
+    },
+    {
+      "title": "14 weggehen",
+      "year": 2026,
+      "slug": "14-weggehen-2026",
+      "md": "works/14-weggehen-2026.md",
+      "image": "images/14-weggehen-2026.webp",
+      "sha256": "2c0afb9b6d406d370734a68a251f198f5b4c0d070ae99aa4bc43a81cf3b0f0d0"
+    },
+    {
+      "title": "15 enge",
+      "year": 2026,
+      "slug": "15-enge-2026",
+      "md": "works/15-enge-2026.md",
+      "image": "images/15-enge-2026.webp",
+      "sha256": "563c5dea77848ce2e19c2c6e055d74b9c11c5069e2cf53d59cdc14a67dbe5fea"
+    },
+    {
+      "title": "16 emotionen",
+      "year": 2026,
+      "slug": "16-emotionen-2026",
+      "md": "works/16-emotionen-2026.md",
+      "image": "images/16-emotionen-2026.webp",
+      "sha256": "b1c9f769503e979a6d6ef0bdaee72fe3281ca425e6afeece0d85af642cbec96c"
+    },
+    {
+      "title": "17 beziehung",
+      "year": 2026,
+      "slug": "17-beziehung-2026",
+      "md": "works/17-beziehung-2026.md",
+      "image": "images/17-beziehung-2026.webp",
+      "sha256": "f8f1c3ce75b5a22e234d41cbcd7bc33a71d2bcb470d719a6dd9310b9164868c2"
+    },
+    {
+      "title": "18 vermisst",
+      "year": 2026,
+      "slug": "18-vermisst-2026",
+      "md": "works/18-vermisst-2026.md",
+      "image": "images/18-vermisst-2026.webp",
+      "sha256": "677da7a6694ac82db6a6fb529db2ab1360455c30806d7f2a04ba220d582e5a19"
+    },
+    {
+      "title": "19 wurzelzwerg1",
+      "year": 2026,
+      "slug": "19-wurzelzwerg1-2026",
+      "md": "works/19-wurzelzwerg1-2026.md",
+      "image": "images/19-wurzelzwerg1-2026.webp",
+      "sha256": "cd4c5ada839e85d90199cb708321040f5e7ce4b7f826c451d3cecdb5312381ab"
+    },
+    {
+      "title": "1 vorblatt",
+      "year": 2026,
+      "slug": "1-vorblatt-2026",
+      "md": "works/1-vorblatt-2026.md",
+      "image": "images/1-vorblatt-2026.webp",
+      "sha256": "bd3c63e8374c06c021ddedd4f7e5888c86fb4b4a02d34f579eec40b7781c8a4f"
+    },
+    {
+      "title": "20 wurzelzwerg2",
+      "year": 2026,
+      "slug": "20-wurzelzwerg2-2026",
+      "md": "works/20-wurzelzwerg2-2026.md",
+      "image": "images/20-wurzelzwerg2-2026.webp",
+      "sha256": "b60c14be6fab8b7586287c41c54a3e181b9ebc937a052a910ed75815f8d9d1ca"
+    },
+    {
+      "title": "21 ubahn",
+      "year": 2026,
+      "slug": "21-ubahn-2026",
+      "md": "works/21-ubahn-2026.md",
+      "image": "images/21-ubahn-2026.webp",
+      "sha256": "dd4c8f793fa2398de7e2c2661ad1fa1714105c4408a9ea96aaf042b291e399d4"
+    },
+    {
+      "title": "22 kaputterCode",
+      "year": 2026,
+      "slug": "22-kaputtercode-2026",
+      "md": "works/22-kaputtercode-2026.md",
+      "image": "images/22-kaputtercode-2026.webp",
+      "sha256": "0137729ed479e284fd2fdcc587411cf0cdbf1731b884950b0534ff86730371e6"
+    },
+    {
+      "title": "23 tamaghotchi",
+      "year": 2026,
+      "slug": "23-tamaghotchi-2026",
+      "md": "works/23-tamaghotchi-2026.md",
+      "image": "images/23-tamaghotchi-2026.webp",
+      "sha256": "063de94a337cdbf002e8555c1d278df198d2637727d6080b52d0b8f4bb5aabef"
+    },
+    {
+      "title": "24 dorfzwockel",
+      "year": 2026,
+      "slug": "24-dorfzwockel-2026",
+      "md": "works/24-dorfzwockel-2026.md",
+      "image": "images/24-dorfzwockel-2026.webp",
+      "sha256": "38f3694bec3a72fa2549916d23885e109a80446480cba2424b7b023d428f2245"
+    },
+    {
+      "title": "25 dorfzwockel",
+      "year": 2026,
+      "slug": "25-dorfzwockel-2026",
+      "md": "works/25-dorfzwockel-2026.md",
+      "image": "images/25-dorfzwockel-2026.webp",
+      "sha256": "3c76834164914e02bd16890d4197eaeb0a90a1536800b1fd5d8281bdf9019ae3"
+    },
+    {
+      "title": "26 yggdrasil",
+      "year": 2026,
+      "slug": "26-yggdrasil-2026",
+      "md": "works/26-yggdrasil-2026.md",
+      "image": "images/26-yggdrasil-2026.webp",
+      "sha256": "bdba9d3f60fe9f89cc55cc35d23f809e4faa3f3e44060ff3680cf1f8b3607bb9"
+    },
+    {
+      "title": "27 yggdrasil",
+      "year": 2026,
+      "slug": "27-yggdrasil-2026",
+      "md": "works/27-yggdrasil-2026.md",
+      "image": "images/27-yggdrasil-2026.webp",
+      "sha256": "79dfc4e3d5f9024eb20a110cd5b43f01c4249433df36671b0f3c499d39c891b6"
+    },
+    {
+      "title": "28 yggdrasil",
+      "year": 2026,
+      "slug": "28-yggdrasil-2026",
+      "md": "works/28-yggdrasil-2026.md",
+      "image": "images/28-yggdrasil-2026.webp",
+      "sha256": "24693eb1bf66cb4dca6e79e20ea4a8a158aa728420ab717407c955474e594560"
+    },
+    {
+      "title": "29 yggdrasil",
+      "year": 2026,
+      "slug": "29-yggdrasil-2026",
+      "md": "works/29-yggdrasil-2026.md",
+      "image": "images/29-yggdrasil-2026.webp",
+      "sha256": "94d845dc4ef4140b1337096002838bc7f6400a28d27473fd03197495b6a68a9d"
+    },
+    {
+      "title": "30 perfekte",
+      "year": 2026,
+      "slug": "30-perfekte-2026",
+      "md": "works/30-perfekte-2026.md",
+      "image": "images/30-perfekte-2026.webp",
+      "sha256": "e098cf32ce21ba027c998e39e25bcb65f207144f6db82225074ce953a89af432"
+    },
+    {
+      "title": "31 vollkommene",
+      "year": 2026,
+      "slug": "31-vollkommene-2026",
+      "md": "works/31-vollkommene-2026.md",
+      "image": "images/31-vollkommene-2026.webp",
+      "sha256": "b16a2804cb3b627e730ee1617eca3e9d4a90926a3b82c2d6d94f911e05dae079"
+    },
+    {
+      "title": "32 baurecht",
+      "year": 2026,
+      "slug": "32-baurecht-2026",
+      "md": "works/32-baurecht-2026.md",
+      "image": "images/32-baurecht-2026.webp",
+      "sha256": "8c640f72766161b9e47e52cbce1c2f966d72a0f78692ada55bc087dc7d865512"
+    },
+    {
+      "title": "34 Not",
+      "year": 2026,
+      "slug": "34-not-2026",
+      "md": "works/34-not-2026.md",
+      "image": "images/34-not-2026.webp",
+      "sha256": "3791948ab40274092aa24615d04f2b74b41824ca43f6edb8d3e5f58a11b1d661"
+    },
+    {
+      "title": "35 not mit Logos",
+      "year": 2026,
+      "slug": "35-not-mit-logos-2026",
+      "md": "works/35-not-mit-logos-2026.md",
+      "image": "images/35-not-mit-logos-2026.webp",
+      "sha256": "e6d5f76ff6e4ff26e52ccc556d5e204566d2dc96c23772426ab3db379c67bfd5"
+    },
+    {
+      "title": "36 Not CI",
+      "year": 2026,
+      "slug": "36-not-ci-2026",
+      "md": "works/36-not-ci-2026.md",
+      "image": "images/36-not-ci-2026.webp",
+      "sha256": "35414bce2706880532808996ebb4057ace83b3c5a879b1e6f77b15d11732bffa"
+    },
+    {
+      "title": "37 not chat",
+      "year": 2026,
+      "slug": "37-not-chat-2026",
+      "md": "works/37-not-chat-2026.md",
+      "image": "images/37-not-chat-2026.webp",
+      "sha256": "863a3636e697fd3296da52872c113547a3896b9f4a887947622b9c7fcc421a16"
+    },
+    {
+      "title": "38 not packungsbeilage",
+      "year": 2026,
+      "slug": "38-not-packungsbeilage-2026",
+      "md": "works/38-not-packungsbeilage-2026.md",
+      "image": "images/38-not-packungsbeilage-2026.webp",
+      "sha256": "2ce7f1803b6b7ea12d7eef0817b81e1961f145e0017562df23ccae058f63482d"
+    },
+    {
+      "title": "39 weltformel",
+      "year": 2026,
+      "slug": "39-weltformel-2026",
+      "md": "works/39-weltformel-2026.md",
+      "image": "images/39-weltformel-2026.webp",
+      "sha256": "f7dc06070a532f1bac2cd34f417cc7d85f4aad39c03670d48366e163607da2c2"
+    },
+    {
+      "title": "3 phasen",
+      "year": 2026,
+      "slug": "3-phasen-2026",
+      "md": "works/3-phasen-2026.md",
+      "image": "images/3-phasen-2026.webp",
+      "sha256": "123f7fed118ebed9d21a87ece85a18afc42a7226c876fe472d53ee0d1f87ae43"
+    },
+    {
+      "title": "40 maschinenwarnung",
+      "year": 2026,
+      "slug": "40-maschinenwarnung-2026",
+      "md": "works/40-maschinenwarnung-2026.md",
+      "image": "images/40-maschinenwarnung-2026.webp",
+      "sha256": "1bc9dea76fc1a0c6f9e1f4f7e5a13561b5f59d66373090ad961f3b5138c14250"
+    },
+    {
+      "title": "41 Finanzamt",
+      "year": 2026,
+      "slug": "41-finanzamt-2026",
+      "md": "works/41-finanzamt-2026.md",
+      "image": "images/41-finanzamt-2026.webp",
+      "sha256": "d4fcf649b4eded5e0d2cf0760bde3d8eed3fb64970095fd6427431db03a818c5"
+    },
+    {
+      "title": "42 Cover back",
+      "year": 2026,
+      "slug": "42-cover-back-2026",
+      "md": "works/42-cover-back-2026.md",
+      "image": "images/42-cover-back-2026.webp",
+      "sha256": "1eabc92120a7f33c14b7e2b62235aa0ad0fde3b14e68f790d4b6a23560d98242"
+    },
+    {
+      "title": "4 perioden",
+      "year": 2026,
+      "slug": "4-perioden-2026",
+      "md": "works/4-perioden-2026.md",
+      "image": "images/4-perioden-2026.webp",
+      "sha256": "5ea4b64ef26823bf656fdd309bac64d74825e75241eb83c2d3a0da3817c36f4e"
+    },
+    {
+      "title": "5 Datenabfluss",
+      "year": 2026,
+      "slug": "5-datenabfluss-2026",
+      "md": "works/5-datenabfluss-2026.md",
+      "image": "images/5-datenabfluss-2026.webp",
+      "sha256": "73d352ae6149274ffc2f9e165416c32cc13e42feda89ee16f83318834ca75606"
+    },
+    {
+      "title": "6 realität",
+      "year": 2026,
+      "slug": "6-realitaet-2026",
+      "md": "works/6-realitaet-2026.md",
+      "image": "images/6-realitaet-2026.webp",
+      "sha256": "93915c1d744d70eff725a9bad5aed6151dd9fcbdefe9012ff5a49df09d302dc0"
+    },
+    {
+      "title": "7 folge",
+      "year": 2026,
+      "slug": "7-folge-2026",
+      "md": "works/7-folge-2026.md",
+      "image": "images/7-folge-2026.webp",
+      "sha256": "3608519108b48b75bc05dab9811c180943641f638c14f63b0e1e7f80cf898209"
+    },
+    {
+      "title": "8 triptychon",
+      "year": 2026,
+      "slug": "8-triptychon-2026",
+      "md": "works/8-triptychon-2026.md",
+      "image": "images/8-triptychon-2026.webp",
+      "sha256": "3bd29b042b2178083d9369239e5541fa252337edf13676d1073a157bea233e7a"
+    },
+    {
+      "title": "9 quasifaschismus",
+      "year": 2026,
+      "slug": "9-quasifaschismus-2026",
+      "md": "works/9-quasifaschismus-2026.md",
+      "image": "images/9-quasifaschismus-2026.webp",
+      "sha256": "731876c7039e523deaddbd81ae46e065856e4ded127f2fedbf86679a6a959497"
     }
   ]
 }
