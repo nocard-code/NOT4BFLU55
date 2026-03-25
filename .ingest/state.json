@@ -2,6 +2,7 @@
   "seen_hashes": [
     "0137729ed479e284fd2fdcc587411cf0cdbf1731b884950b0534ff86730371e6",
     "063de94a337cdbf002e8555c1d278df198d2637727d6080b52d0b8f4bb5aabef",
+    "0a58a72d89169ed7f7465c9f1e1da34fe6dd287ad07c963f3eb1432bb950a494",
     "103fdbbc6fc64e24bfad1b118b6b0c22d13273be14ea89cb57b9fa2c86626ca5",
     "123f7fed118ebed9d21a87ece85a18afc42a7226c876fe472d53ee0d1f87ae43",
     "153380fbf9faf12e07ce0525f14a88783ed4a6b6c4305fe73e18a0059281c799",
@@ -532,6 +533,14 @@
       "md": "works/9-quasifaschismus-2026.md",
       "image": "images/9-quasifaschismus-2026.webp",
       "sha256": "731876c7039e523deaddbd81ae46e065856e4ded127f2fedbf86679a6a959497"
+    },
+    {
+      "title": "Zwangspflichtjukebox",
+      "year": 2026,
+      "slug": "zwangspflichtjukebox-2026",
+      "md": "works/zwangspflichtjukebox-2026.md",
+      "image": "images/zwangspflichtjukebox-2026.webp",
+      "sha256": "0a58a72d89169ed7f7465c9f1e1da34fe6dd287ad07c963f3eb1432bb950a494"
     }
   ]
 }

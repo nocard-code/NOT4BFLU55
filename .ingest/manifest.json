@@ -471,6 +471,14 @@
       "md": "works/9-quasifaschismus-2026.md",
       "image": "images/9-quasifaschismus-2026.webp",
       "sha256": "731876c7039e523deaddbd81ae46e065856e4ded127f2fedbf86679a6a959497"
+    },
+    {
+      "title": "Zwangspflichtjukebox",
+      "year": 2026,
+      "slug": "zwangspflichtjukebox-2026",
+      "md": "works/zwangspflichtjukebox-2026.md",
+      "image": "images/zwangspflichtjukebox-2026.webp",
+      "sha256": "0a58a72d89169ed7f7465c9f1e1da34fe6dd287ad07c963f3eb1432bb950a494"
     }
   ]
 }
