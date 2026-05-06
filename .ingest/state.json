@@ -49,6 +49,7 @@
     "bd3c63e8374c06c021ddedd4f7e5888c86fb4b4a02d34f579eec40b7781c8a4f",
     "bdba9d3f60fe9f89cc55cc35d23f809e4faa3f3e44060ff3680cf1f8b3607bb9",
     "c4256fc940b447c2e4cc9adf1a94cb70210cf6624c1a5ffeabbaa44f77c3c729",
+    "c901e322102231bdef68a7afd0e84e2065b802d5799bad8ff275932fbac45bce",
     "cd4c5ada839e85d90199cb708321040f5e7ce4b7f826c451d3cecdb5312381ab",
     "d0d9d653359604e9536ed2f2c9f066f37b476c06f50ff800f219cdec54642115",
     "d4fcf649b4eded5e0d2cf0760bde3d8eed3fb64970095fd6427431db03a818c5",
@@ -541,6 +542,14 @@
       "md": "works/zwangspflichtjukebox-2026.md",
       "image": "images/zwangspflichtjukebox-2026.webp",
       "sha256": "0a58a72d89169ed7f7465c9f1e1da34fe6dd287ad07c963f3eb1432bb950a494"
+    },
+    {
+      "title": "Warnung an Eierfetischisten",
+      "year": 2026,
+      "slug": "warnung-an-eierfetischisten-2026",
+      "md": "works/warnung-an-eierfetischisten-2026.md",
+      "image": "images/warnung-an-eierfetischisten-2026.webp",
+      "sha256": "c901e322102231bdef68a7afd0e84e2065b802d5799bad8ff275932fbac45bce"
     }
   ]
 }
