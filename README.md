@@ -49,6 +49,7 @@ Offenes Roharchiv (Bild + Transkription + Kontext) für maschinenlesbare Auffind
 - [back](works/back-2026.md)
 - [barcode 2026 02 13 09 00 23](works/barcode-2026-02-13-09-00-23-2026.md)
 - [barcode 2026 02 16 16 40 32](works/barcode-2026-02-16-16-40-32-2026.md)
+- [BlattlausLogo](works/blattlauslogo-2026.md)
 - [DeConWarning](works/deconwarning-2026.md)
 - [deconwarning](works/deconwarning-2026-2.md)
 - [Fotor 177153000713640](works/fotor-177153000713640-2026.md)

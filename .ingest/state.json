@@ -6,6 +6,7 @@
     "103fdbbc6fc64e24bfad1b118b6b0c22d13273be14ea89cb57b9fa2c86626ca5",
     "123f7fed118ebed9d21a87ece85a18afc42a7226c876fe472d53ee0d1f87ae43",
     "153380fbf9faf12e07ce0525f14a88783ed4a6b6c4305fe73e18a0059281c799",
+    "1bb51c27a92d2826e1e608d3b73815c6ddcc65a2834ff808a2c5a45bb7169411",
     "1bc9dea76fc1a0c6f9e1f4f7e5a13561b5f59d66373090ad961f3b5138c14250",
     "1c37bf78dd465d5496af4f1d18dee0593e5525ab759feedada6e941746ed73a7",
     "1d4efafd87856b75ea44f83aa3c82dc313f68afde2133416d067400ca05d3efb",
@@ -550,6 +551,14 @@
       "md": "works/warnung-an-eierfetischisten-2026.md",
       "image": "images/warnung-an-eierfetischisten-2026.webp",
       "sha256": "c901e322102231bdef68a7afd0e84e2065b802d5799bad8ff275932fbac45bce"
+    },
+    {
+      "title": "BlattlausLogo",
+      "year": 2026,
+      "slug": "blattlauslogo-2026",
+      "md": "works/blattlauslogo-2026.md",
+      "image": "images/blattlauslogo-2026.webp",
+      "sha256": "1bb51c27a92d2826e1e608d3b73815c6ddcc65a2834ff808a2c5a45bb7169411"
     }
   ]
 }
