@@ -495,6 +495,14 @@
       "md": "works/blattlauslogo-2026.md",
       "image": "images/blattlauslogo-2026.webp",
       "sha256": "1bb51c27a92d2826e1e608d3b73815c6ddcc65a2834ff808a2c5a45bb7169411"
+    },
+    {
+      "title": "FlugblattAPO",
+      "year": 2026,
+      "slug": "flugblattapo-2026",
+      "md": "works/flugblattapo-2026.md",
+      "image": "images/flugblattapo-2026.webp",
+      "sha256": "7119716b8c65e12e67d847aa1f13ad75a80ef15bab9f6c6f8a67a262513af357"
     }
   ]
 }

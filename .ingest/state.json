@@ -32,6 +32,7 @@
     "677da7a6694ac82db6a6fb529db2ab1360455c30806d7f2a04ba220d582e5a19",
     "6ffcbd1363d840af62ae43b4e9a7d0877df1d1507e0913fb06593cfcb971d437",
     "70876dcc951eae003674a640ce67b3a364ece4c0650ea0526f50a6ce81ed1eef",
+    "7119716b8c65e12e67d847aa1f13ad75a80ef15bab9f6c6f8a67a262513af357",
     "731876c7039e523deaddbd81ae46e065856e4ded127f2fedbf86679a6a959497",
     "733ef3fb533ec4b584fc6ec9618da7029495f1e6f013a5bc79b0aac39d28e297",
     "73d352ae6149274ffc2f9e165416c32cc13e42feda89ee16f83318834ca75606",
@@ -559,6 +560,14 @@
       "md": "works/blattlauslogo-2026.md",
       "image": "images/blattlauslogo-2026.webp",
       "sha256": "1bb51c27a92d2826e1e608d3b73815c6ddcc65a2834ff808a2c5a45bb7169411"
+    },
+    {
+      "title": "FlugblattAPO",
+      "year": 2026,
+      "slug": "flugblattapo-2026",
+      "md": "works/flugblattapo-2026.md",
+      "image": "images/flugblattapo-2026.webp",
+      "sha256": "7119716b8c65e12e67d847aa1f13ad75a80ef15bab9f6c6f8a67a262513af357"
     }
   ]
 }
